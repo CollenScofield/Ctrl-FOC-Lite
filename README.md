@@ -13,3 +13,5 @@
 固件使用CLion开发编译，不熟悉的同学可以参考这篇文章：
 
 [配置CLion用于STM32开发](https://www.zhihu.com/people/zhi-hui-64-54/posts)
+
+https://www.zhihu.com/search?type=content&q=%E9%85%8D%E7%BD%AECLion%E7%94%A8%E4%BA%8ESTM32%E5%BC%80%E5%8F%91
